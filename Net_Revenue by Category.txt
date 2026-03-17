@@ -1,0 +1,6 @@
+"category","totalunits_sold","totalunits_ordered","net_revenue"
+"Groceries","614670","619158","34273907"
+"Toys","865641","872683","47722177"
+"Furniture","1735096","1747220","95772220"
+"Electronics","2222760","2232686","122277053"
+"Clothing","3539651","3577506","195208388"
